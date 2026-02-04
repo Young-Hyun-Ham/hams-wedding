@@ -95,10 +95,10 @@
     "항상 내 옆을 지켜줘서 고마워. 사랑해 ❤️",
     "우리의 평범한 하루가 가장 특별해 ✨",
     "당신이 있어서 집이 더 따뜻해졌어",
-    "Cảm ơn em vì đã luôn ở bên anh ❤️",
-    "Cảm ơn vì đã luôn ở bên cạnh tôi. Anh yêu em ❤️",
-    "Anh yêu em hơn mỗi ngày.",
-    "Nhà là nơi có em."
+    "Bữa nay thương em nhiều hơn nè. Mai còn thương nhiều hơn nữa nha ❤️",
+    "Cảm ơn em đã luôn ở bên cạnh anh nha. Thương em lắm ❤️",
+    "Mấy ngày bình thường của hai đứa mình là đặc biệt nhất luôn đó ✨",
+    "Có em nên nhà mình ấm áp hơn nhiều nè "
   ];
 
   let loveLine = "";
@@ -157,11 +157,11 @@
         </div>
 
         <div class="mini card">
-          <div class="mini-title">Một lời nhắn cho em ❤️</div>
+          <div class="mini-title">Chút lời nhắn cho vợ yêu ❤️</div>
           <div class="mini-text">
-            Cảm ơn em vì đã đến bên anh.<br/>
-            Chúc mừng kỷ niệm 7 năm của chúng ta.<br/>
-            Anh yêu em rất nhiều.
+            Cảm ơn em đã đến bên đời anh nè.<br/>
+            Chúc mừng kỷ niệm 7 năm của hai đứa mình nha.<br/>
+            Thương em nhiều lắm.
           </div>
         </div>
       </div>
@@ -169,7 +169,7 @@
       <div class="hero-right card">
         <div class="cover">
           <img
-            src="/cover.png"
+            src="/7th/cover.png"
             alt="cover"
           />
           <div class="cover-grad"></div>
@@ -244,7 +244,9 @@
         <div class="letter-body">
           <p>
             사랑하는 당신에게.<br /><br />
-            우리가 처음 만난 그 순간부터 지금까지, 당신은 내 인생에서 가장 큰 선물이었어.
+            그 동안 많이 힘들었지. 임신 했을 때도 맘 편히 쉬지 못하고, 
+            나 때문에 괴로워 했을 시간에 너무 미안해요. 이번 기회를 빌어 당신에게 진심으로 미안합니다.
+            우리가 처음 만난 그 순간부터 지금까지, 당신은 내 인생에서 가장 큰 선물이었다는 걸 이제야 깨달아요.
             한국에 와서 낯설고 힘들었을 시간에도 가족을 위해 웃어줘서 고마워.
             수아와 승아를 함께 키우며 우리가 만든 일상은, 나에게 최고의 기적이야.<br /><br />
             7주년, 그리고 앞으로의 모든 날에도…<br />
@@ -254,11 +256,17 @@
           <div class="vn">
             <div class="vn-title">Tiếng Việt</div>
             <p>
-              Em yêu,<br /><br />
-              Cảm ơn em vì đã luôn cố gắng và ở bên anh.
-              Anh tự hào về em và gia đình mình.
-              Chúc mừng kỷ niệm 7 năm — chúng ta sẽ hạnh phúc thật lâu nhé.<br /><br />
-              Anh yêu em.
+              Gửi vợ yêu của anh,<br /><br />
+              Chắc hẳn thời gian qua em đã vất vả nhiều rồi. Anh thực sự xin lỗi vì đã để em phải phiền lòng, 
+              ngay cả khi mang thai em cũng không được nghỉ ngơi thoải mái. 
+              Nhân cơ hội này, anh muốn gửi tới em lời xin lỗi chân thành nhất từ tận đáy lòng.
+              Đến tận bây giờ anh mới nhận ra rằng, từ khoảnh khắc đầu tiên mình gặp nhau cho tới lúc này, 
+              em chính là món quà lớn nhất trong cuộc đời anh. Cảm ơn em vì đã luôn mỉm cười vì gia đình, 
+              dù phải trải qua những ngày tháng lạ lẫm và khó khăn khi mới sang Hàn Quốc. 
+              Được cùng em nuôi dạy bé Sua và Seunga, cùng nhau tạo nên những kỷ niệm mỗi ngày, 
+              đối với anh đó là phép màu tuyệt vời nhất.<br /><br />
+              Kỷ niệm 7 năm, và cả những ngày tháng sau này nữa...<br />
+              Anh hứa sẽ luôn luôn "về phe em". Anh yêu em rất nhiều.
             </p>
           </div>
         </div>

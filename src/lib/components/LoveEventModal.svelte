@@ -3,7 +3,7 @@
   import { fade, fly } from "svelte/transition";
   import { onMount, onDestroy } from "svelte";
 
-  export type LoveEvent = {
+  type LoveEvent = {
     title: string;
     desc: string;
     tags?: string[];
