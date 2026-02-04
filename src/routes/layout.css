@@ -124,3 +124,56 @@ img { max-width: 100%; display: block; }
 
 .section { padding: 26px 0; }
 @media (min-width: 769px) { .section { padding: 40px 0; } }
+
+
+/* ===== Countdown Overlay ===== */
+.countdown-overlay{
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+
+  display: grid;
+  place-items: center;
+
+  /* 화면 전체 어둡게 + 배경 블러(지원 브라우저에서) */
+  background: rgba(0,0,0,.55);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+
+  /* 탭/스크롤 차단 (모바일 웹뷰 포함) */
+  touch-action: none;
+  overscroll-behavior: none;
+}
+
+.countdown-center{
+  text-align: center;
+  user-select: none;
+}
+
+.countdown-ready{
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: .22em;
+  color: rgba(255,255,255,.82);
+}
+
+.countdown-num{
+  margin-top: 8px;
+  font-size: clamp(72px, 10vw, 110px);
+  font-weight: 900;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  color: #fff;
+
+  /* 이미지처럼 살짝 “떠있는” 글로우 */
+  text-shadow: 0 0 24px rgba(255,255,255,.35);
+}
+
+.countdown-sub{
+  margin-top: 10px;
+  font-size: 14px;
+  color: rgba(255,255,255,.72);
+}
+
+/* 혹시 기본 margin 때문에 어긋나면 */
+html, body { margin: 0; }
